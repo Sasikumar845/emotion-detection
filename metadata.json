@@ -1,0 +1,5 @@
+
+{
+  "name": "AI Emotion Detector",
+  "description": "A web application that uses a Gemini model to analyze text and detect the underlying emotions, displaying the results in a clear, visual format."
+}
